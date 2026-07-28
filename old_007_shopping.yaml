@@ -1,0 +1,15 @@
+payload:
+- DOMAIN-SUFFIX,amazon.com
+- DOMAIN-SUFFIX,amazon.co.jp
+- DOMAIN-SUFFIX,amazon.de
+- DOMAIN-SUFFIX,ebay.com
+- DOMAIN-SUFFIX,etsy.com
+- DOMAIN-SUFFIX,iherb.com
+- DOMAIN-SUFFIX,costco.com
+- DOMAIN-SUFFIX,homedepot.com
+- DOMAIN-SUFFIX,nordstrom.com
+- DOMAIN-SUFFIX,macys.com
+- DOMAIN-SUFFIX,lowes.com
+- DOMAIN-SUFFIX,fedex.com
+- DOMAIN-SUFFIX,ups.com
+- DOMAIN-SUFFIX,dhl.com

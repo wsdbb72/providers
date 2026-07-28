@@ -1,0 +1,23 @@
+payload:
+- DOMAIN-SUFFIX,cloudflare.com
+- DOMAIN-SUFFIX,cloudflare-dns.com
+- DOMAIN-SUFFIX,workers.dev
+- DOMAIN-SUFFIX,amazonaws.com
+- DOMAIN-SUFFIX,awsstatic.com
+- DOMAIN-SUFFIX,digitalocean.com
+- DOMAIN-SUFFIX,linode.com
+- DOMAIN-SUFFIX,onedrive.com
+- DOMAIN-SUFFIX,1drv.ms
+- DOMAIN-SUFFIX,sharepoint.com
+- DOMAIN-SUFFIX,sharepointonline.com
+- DOMAIN-SUFFIX,office.net
+- DOMAIN-SUFFIX,office365.com
+- DOMAIN-SUFFIX,oraclecloud.com
+- DOMAIN-SUFFIX,dropbox.com
+- DOMAIN-SUFFIX,dropboxapi.com
+- DOMAIN-SUFFIX,dropboxstatic.com
+- DOMAIN-SUFFIX,mega.nz
+- DOMAIN-SUFFIX,mega.io
+- DOMAIN-SUFFIX,proton.me
+- DOMAIN-SUFFIX,protonmail.com
+- DOMAIN-SUFFIX,protonvpn.com
