@@ -50,7 +50,50 @@ payload:
 - DOMAIN-SUFFIX,nintendowifi.net
 
 # ==== AUTO-GAME-IP BEGIN (由 game-watch.ps1 维护，请勿手工编辑此段) ====
-# 更新时间: 2026-09-13 18:49:31    自动条目: 2    保留原条目: 49
+# 更新时间: 2026-09-15 22:29:31    自动条目: 45    保留原条目: 49
+- IP-CIDR,100.50.20.0/24,no-resolve
+- IP-CIDR,103.10.124.0/24,no-resolve
+- IP-CIDR,103.10.125.0/24,no-resolve
+- IP-CIDR,103.28.54.0/24,no-resolve
 - IP-CIDR,104.198.112.0/24,no-resolve
+- IP-CIDR,13.219.156.0/24,no-resolve
+- IP-CIDR,146.66.152.0/24,no-resolve
+- IP-CIDR,146.66.155.0/24,no-resolve
+- IP-CIDR,15.181.201.0/24,no-resolve
+- IP-CIDR,155.133.224.0/24,no-resolve
+- IP-CIDR,155.133.225.0/24,no-resolve
+- IP-CIDR,155.133.226.0/24,no-resolve
+- IP-CIDR,155.133.227.0/24,no-resolve
+- IP-CIDR,155.133.230.0/24,no-resolve
+- IP-CIDR,155.133.238.0/24,no-resolve
+- IP-CIDR,155.133.244.0/24,no-resolve
+- IP-CIDR,155.133.246.0/24,no-resolve
+- IP-CIDR,155.133.248.0/24,no-resolve
+- IP-CIDR,155.133.249.0/24,no-resolve
+- IP-CIDR,155.133.252.0/24,no-resolve
+- IP-CIDR,155.133.255.0/24,no-resolve
+- IP-CIDR,159.153.51.0/24,no-resolve
+- IP-CIDR,162.254.192.0/24,no-resolve
+- IP-CIDR,162.254.193.0/24,no-resolve
+- IP-CIDR,162.254.194.0/24,no-resolve
+- IP-CIDR,162.254.195.0/24,no-resolve
+- IP-CIDR,162.254.196.0/24,no-resolve
+- IP-CIDR,162.254.197.0/24,no-resolve
+- IP-CIDR,162.254.198.0/24,no-resolve
+- IP-CIDR,162.254.199.0/24,no-resolve
+- IP-CIDR,185.25.180.0/24,no-resolve
+- IP-CIDR,185.25.182.0/24,no-resolve
+- IP-CIDR,185.25.183.0/24,no-resolve
+- IP-CIDR,205.196.6.0/24,no-resolve
 - IP-CIDR,216.244.9.0/24,no-resolve
+- IP-CIDR,44.195.136.0/24,no-resolve
+- IP-CIDR,44.229.24.0/24,no-resolve
+- IP-CIDR,45.121.184.0/24,no-resolve
+- IP-CIDR,52.89.160.0/24,no-resolve
+- IP-CIDR,54.115.30.0/24,no-resolve
+- IP-CIDR,54.115.68.0/24,no-resolve
+- IP-CIDR,54.115.72.0/24,no-resolve
+- IP-CIDR,54.115.74.0/24,no-resolve
+- IP-CIDR,54.207.182.0/24,no-resolve
+- IP-CIDR,98.85.38.0/24,no-resolve
 # ==== AUTO-GAME-IP END ====
