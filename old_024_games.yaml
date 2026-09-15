@@ -50,7 +50,7 @@ payload:
 - DOMAIN-SUFFIX,nintendowifi.net
 
 # ==== AUTO-GAME-IP BEGIN (由 game-watch.ps1 维护，请勿手工编辑此段) ====
-# 更新时间: 2026-09-15 23:56:12    自动条目: 48    保留原条目: 49
+# 更新时间: 2026-09-16 00:06:45    自动条目: 49    保留原条目: 49
 - IP-CIDR,100.50.20.0/24,no-resolve
 - IP-CIDR,103.10.124.0/24,no-resolve
 - IP-CIDR,103.10.125.0/24,no-resolve
@@ -81,6 +81,7 @@ payload:
 - IP-CIDR,162.254.197.0/24,no-resolve
 - IP-CIDR,162.254.198.0/24,no-resolve
 - IP-CIDR,162.254.199.0/24,no-resolve
+- IP-CIDR,18.228.230.0/24,no-resolve
 - IP-CIDR,185.25.180.0/24,no-resolve
 - IP-CIDR,185.25.182.0/24,no-resolve
 - IP-CIDR,185.25.183.0/24,no-resolve
